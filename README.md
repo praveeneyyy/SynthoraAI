@@ -1,10 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/5baa8822-92c5-4684-b749-a4084a7e7ebe
-
-## How can I edit this code?
+How can I edit this code?
 
 **Use your preferred IDE**
 
@@ -41,7 +35,7 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+What technologies are used for this project?
 
 This project is built with:
 
@@ -51,7 +45,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Feel free to add any changes in this new SynthoraAI
-
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Feel free to add any changes in this new SynthoraAI
